@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-pic",
+      "description": "Profile picture",
+      "imageUrl": "/me.gif",
+      "imageHint": "profile gif"
+    },
+    {
+      "id": "project-1",
+      "description": "Wildchat project",
+      "imageUrl": "/wildchat.png",
+      "imageHint": "wildchat app"
+    },
+    {
+      "id": "project-2",
+      "description": "TeknoySafeSpace project",
+      "imageUrl": "/TeknoySafeSpace.png",
+      "imageHint": "teknoysafespace app"
+    },
+    {
+      "id": "project-3",
+      "description": "Colorful Analytics Dashboard",
+      "imageUrl": "https://picsum.photos/seed/cute-project3/800/600",
+      "imageHint": "colorful graphs dashboard"
+    }
+  ]
+}
